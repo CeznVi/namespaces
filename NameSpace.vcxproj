@@ -131,6 +131,8 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Lib\fraction.h" />
+    <ClInclude Include="Lib\rootsEQ.h" />
+    <ClInclude Include="Lib\shape.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
