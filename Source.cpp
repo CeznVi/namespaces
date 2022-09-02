@@ -29,7 +29,9 @@ int main()
     /// Тест простіру імен geometry
     using namespace geometry;
     Reactangle react(10,12,5,6);
+    Circle circl(10, 20, 22);
     react.Show();
+    circl.Show();
     //////
 
  
